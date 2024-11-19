@@ -5,5 +5,5 @@ nacos/nacos-server:v2.4.3
 nacos/nacos-server:v2.1.0
 redis
 mcr.microsoft.com/mssql/server:2017-latest
-microsoft/mssql-server-linux:2017-latest
+microsoft/mssql-server-linux-arm64:2022-latest
 
